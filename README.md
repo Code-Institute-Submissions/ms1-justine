@@ -1,39 +1,94 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Justine Cote Website
+This is the website for the artist Justine Cote.  It is designed to show her wok, past and present in digital art, painting and sculpture. It also advertises her latest exhibition and shows her past exhibitions and placements. It has a contact page and is also intended as a glimpse into the artist.
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## User Experience (UX)
+This site is intended for people interested in finding out about the artist and her work.
 
-## Gitpod Reminders
+The business goals are for the artist to find potential buyers for her work and create potential markets both in Ireland and abroad. It is also intended as a means for her to gain recognition, promote herself and establish herself in the art world. It has a professional artistic design yet at the same time has a warm open feel to invite people to get to know her better.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+-   ### User stories
 
-A blue button should appear to click: *Make Public*,
+    -   #### First Time Visitor Goals
 
-Another blue button should appear to click: *Open Browser*.
+1. As a First Time Visitor, I want to find out about the artist and her work. I want to understand what type of art works she creates and find out where I can see them. I want to find out about who she is, where she comes from and lives and where she studied. I want to evaluate her work and find out how to purchase it. 
+2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+3. As a First Time Visitor, I want to find out her standing in the art world and look for testimonials, reviews, and awards. I also want to locate her social media links to see her followings on social media.
+ 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+    -   #### Returning Visitor Goals
+1. As a Returning Visitor, I want to I want to examine her works again with a view to purchasing.
+2. As a Returning Visitor, I want to re-examine past exhibitions and notable placements. I want to find out about any new exhibitions and works.
+3. As a Returning Visitor, I want to find the best way to get in contact with her.
+        
 
-A blue button should appear to click: *Make Public*,
+    -   #### Frequent User Goals
+1. As a Frequent User, I want to check to see if she has any new works.
+2. As a Frequent User, I want to check to see if there are any new personal or professional developments.
+3. As a Frequent User, I want to contact her.
+ 
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+…………………………………………….
+-   #### First Time Visitor Goals
 
-## Updates Since The Instructional Video
+1. As a First Time Visitor, I want to find out about the artist and her work. I want to understand what type of art works she creates and find out where I can see them. I want to find out about who she is, where she comes from and lives and where she studied. I want to evaluate her work and find out how to purchase it. 
+ 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+to be cont.
+-   ### Design
+    -   #### Colour Scheme
+        -   The images of the art works will be the color for the site. Additional coloring will be avoided so as not to take from them. Apart from a colored logo on top with a matching color image as the footer. These will have a warm feel to them to personalise the site.
+    -   #### Typography
+        -   Not sure yet but I will go for a clear modern font.
+    -   #### Imagery
+        -   The photos of the art works will be the backbone of the site and to all intensive purposes are it’s vey purpose.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+*   ### Wireframes
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+    -   PDF – MS1- Justine Cote Artist
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+-	(github upload to be cont.)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+ 
 
---------
+ ## Features
 
-Happy coding!
+### Existing Features
+
+## Technologies Used
+
+### Languages Used
+
+
+### Frameworks, Libraries & Programs Used
+
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) ( to be cont.) during the design process.
+ 
+
+
+
+## Testing
+
+
+## Deployment
+
+
+## Credits
+
+### Content
+
+### Media
+- The photos used in this site were obtained from 
+
+     1. unsplash.com at 
+            https://unsplash.com/wallpapers/art.
+
+     2. pexels.com at
+            https://www.pexels.com/search/art/
+
+
+### Acknowledgements
+ 
