@@ -54,7 +54,12 @@
 }
 
 /*--------------------------------------------Header*/
-
+.info-container {
+     width: 100%;
+  margin-top: 200px;
+  
+  position: relative;
+}
 .showcase-container {
   width: 100%;
   margin-top: 200px;
