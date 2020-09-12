@@ -75,7 +75,7 @@
 .navbar {
   margin-bottom: 0;
   border: 0;
-  border-bottom: 15px solid #eeeeee;
+  border-bottom: 10px solid #eeeeee;
   width: 100%;
 }
 
@@ -89,10 +89,13 @@
   color: #999999;
   font-weight: bold;
 }
-.navbar-custom .nav-item.active .nav-link,
+
 .navbar-custom .nav-item:hover .nav-link {
   text-decoration: underline;
   color: #999999;
+}
+.navbar-custom .nav-item.active .nav-link {
+    color: #000000;
 }
 .navbar .navbar-nav .dropdown-item {
   color: #999999;
@@ -212,7 +215,7 @@
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
 }
 
@@ -277,8 +280,8 @@ p {
     margin-top: 75px;
 }
 .grey-line {
-  width: 100px;
-  height: 30px;
+  width: 100%;
+  height: 10px;
   border: 0;
   background-color: #eeeeee;
   margin-bottom: 40px;
@@ -389,8 +392,8 @@ p {
 .exhibition-container {
   margin-top: 75px;
 }
-.ex-pic {
-  background-image: url(../images/ab1port.jpeg);
+.expres-pic {
+  background-image: url(../images/paint1.jpeg);
 }
 /*--------------------------------------------Justine-section*/
 .justine-container {
@@ -408,7 +411,19 @@ p {
   position: relative;
   
 }
-/*--------------------------------------------Digital-Present-Page*/
+.art-right1 {
+    margin-top: 275px;
+    position: relative;
+}
+.art-right {
+    margin-top: 75px;
+    position: relative;
+}
+.art-left {
+    margin-top: 75px;
+    position: relative;
+}
+/*--------------------------------------------Digital-Pages*/
 .digi1 {
   background-image: url(../images/digi1.jpg);
 }
@@ -418,3 +433,32 @@ p {
 .digi3 {
   background-image: url(../images/digi3.jpg);
 }
+.digi4 {
+  background-image: url(../images/digi4.jpg);
+}
+.digi5 {
+  background-image: url(../images/digi5.jpg);
+}
+.digi6 {
+  background-image: url(../images/digi6.jpg);
+}
+/*--------------------------------------------Paintings-Pages*/
+.paint1 {
+  background-image: url(../images/paint1.jpeg);
+}
+.paint2 {
+  background-image: url(../images/paint2.jpeg);
+}
+.paint3 {
+  background-image: url(../images/paint3.jpeg);
+}
+.paint1 {
+  background-image: url(../images/paint1.jpg);
+}
+.paint1 {
+  background-image: url(../images/paint1.jpg);
+}
+.paint1 {
+  background-image: url(../images/paint1.jpg);
+}
+/*--------------------------------------------Sculpture-Page*/
