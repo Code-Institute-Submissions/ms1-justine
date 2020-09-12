@@ -1,3 +1,10 @@
+/*body {
+  font-family: "Roboto", sans-serif;
+}*/
+
+
+
+
 /*--------------------------------------------Navbar-Logo*/
 .navlogo-container {
   position: absolute;
@@ -6,52 +13,96 @@
   left: 0;
   padding-left: 0;
   padding-right: 0;
-  background-image: url(../images/logo.jpeg);
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  /*z-index: 1;*/
+
 }
 
-.logo {
-  margin: 8px auto;
+
+.logo{
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 350px;
+  margin: 20px auto;
+  background-image: url(../images/logo.jpeg);
+  background-repeat: no-repeat;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   color: white;
   font-weight: bold;
   text-align: center;
-  line-height: 40px;
+  line-height: 32px;
   letter-spacing: 3px;
+  
 }
 .logo p {
-  font-size: 32px;
+  font-size: 30px;  
+  
 }
+@media (max-width: 584px) {
+  .logo {
+    
+  height: 40px;
+  width: 200px;
+  margin: 13px auto;
+
+  line-height: 15px;
+  letter-spacing: 1px;
+  }
+}
+#navbarNavDropdown {
+    position:relative;
+  z-index:5;
+  width: 50px;
+  background-color: #ffffff;
+  float: right;
+}
+#navbarNavDropdown ul li {
+    display: inline-block;
+}
+@media (max-width: 584px) {
+  .logo p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 584px) {
+  .navbar .navbar-brand {
+    font-size: 30px;
+  }
+}
+
 .navbar {
   margin-bottom: 0;
   border: 0;
+  border-bottom: 15px solid #eeeeee;
   width: 100%;
 }
 
 .navbar .navbar-brand {
   font-weight: bold;
   font-size: 40px;
-  color: #ffffff;
+  color: #000000;
 }
 
 .navbar-custom .navbar-nav .nav-link {
-  color: #ffffff;
+  color: #999999;
   font-weight: bold;
 }
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
   text-decoration: underline;
-  color: #ffffff;
+  color: #999999;
 }
 .navbar .navbar-nav .dropdown-item {
-  color: #ffffff;
+  color: #999999;
   font-weight: bold;
-  background-color: #999999;
+  
 }
+.navbar .navbar-nav .dropdown-item:hover {
+ text-decoration: underline;   
+}
+.navbar .button
 
 /*--------------------------------------------Header*/
 .info-container {
@@ -62,7 +113,7 @@
 }
 .showcase-container {
   width: 100%;
-  margin-top: 200px;
+  margin-top: 240px;
   max-height: 500px;
   position: relative;
 }
@@ -130,10 +181,8 @@
   }
 }
 
-/*--------------------------------------------Exhibition-section + general sizings*/
-.exhibition-container {
-  margin-top: 30px;
-}
+/*------------------------------------------- general sizings*/
+
 .pic {
   display: flex;
   height: 500px;
@@ -145,9 +194,7 @@
   background-size: cover;
   background-position: center center;
 }
-.ex-pic {
-  background-image: url(../images/ab1port.jpeg);
-}
+
 .right-text {
   text-align: right;
   border-right: 20px solid #eeeeee;
@@ -182,7 +229,7 @@ p {
 }
 .black-arrow a i:hover {
   text-decoration: underline;
-  color: blue;
+  color: #000000;
 }
 
 @media (max-width: 584px) {
@@ -202,58 +249,79 @@ p {
     font-size: 8px;
   }
 }
-/*--------------------------------------------Justine-section*/
-.justine-container {
-  margin-top: 5px;
-}
 
-.sketch-pic {
-  background-image: url(../images/sket-rota.jpg);
-}
-/*--------------------------------------------Art*/
-
-.art-container {
-  width: 100%;
-  margin-top: 200px;
-  position: relative;
-}
-/*--------------------------------------------Digital-Present*/
-.digi1 {
-  background-image: url(../images/digi1.jpg);
-}
-.digi2 {
-  background-image: url(../images/digi2.jpg);
-}
-.digi3 {
-  background-image: url(../images/digi3.jpg);
-}
 /*--------------------------------------------Footer*/
 .footer-container {
-  width: 100%;
+    width: 100%;
+    margin-top: 75px;
+}
+.grey-line {
+  width: 200px;
+  height: 20px;
+  border: 0;
+  background-color: #eeeeee;
+  margin-bottom: 50px;
+}
+
+.foot-logo{
+    
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+  width: 350px;
+  margin: 5px auto;
   background-image: url(../images/foot-nar.jpeg);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  
+  
 }
+
 
 .foot {
   text-align: center;
   color: #ffffff;
-  margin-top: 50px;
+  
   font-weight: bold;
-  font-size: 30px;
-}
+  font-size: 28px;
+  line-height: 32px;
+  letter-spacing: 3px;
 
+}
+.foot p {
+  font-size: 28px;  
+  
+}
+.arrow a {
+    color: #ffffff;
+}
 .arrow a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+.arrow a:hover i {
   text-decoration: underline;
   color: #ffffff;
 }
 @media (max-width: 584px) {
   .foot {
     font-size: 15px;
+    line-height: 15px;
     margin-top: 5px;
-    background-size: contain;
-  }
+    }
+}
+@media (max-width: 584px) {
+  .foot-logo {
+    height: 40px;
+  width: 200px;
+  margin: 30px auto;
+    }
 }
 .social-links {
   text-align: center;
@@ -268,7 +336,7 @@ p {
   font-size: 5px;
   text-align: center;
   margin: 0 auto;
-  color: #ffffff;
+  color: #666666;
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
@@ -277,4 +345,37 @@ p {
 
 .social-links li a:hover {
   text-decoration: underline;
+}
+/*--------------------------------------------Exhibition-section*/
+.exhibition-container {
+  margin-top: 75px;
+}
+.ex-pic {
+  background-image: url(../images/ab1port.jpeg);
+}
+/*--------------------------------------------Justine-section*/
+.justine-container {
+  margin-top: 75px;
+}
+
+.sketch-pic {
+  background-image: url(../images/sket-rota.jpg);
+}
+/*--------------------------------------------Art-Pages*/
+
+.art-container {
+  width: 100%;
+  margin-top: 200px;
+  position: relative;
+  
+}
+/*--------------------------------------------Digital-Present-Page*/
+.digi1 {
+  background-image: url(../images/digi1.jpg);
+}
+.digi2 {
+  background-image: url(../images/digi2.jpg);
+}
+.digi3 {
+  background-image: url(../images/digi3.jpg);
 }
