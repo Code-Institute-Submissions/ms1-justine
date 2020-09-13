@@ -278,6 +278,7 @@ p {
 .footer-container {
     width: 100%;
     margin-top: 75px;
+    margin-bottom: 20px;
 }
 .grey-line {
   width: 100%;
@@ -443,22 +444,34 @@ p {
   background-image: url(../images/digi6.jpg);
 }
 /*--------------------------------------------Paintings-Pages*/
-.paint1 {
+.expres-pic {
   background-image: url(../images/paint1.jpeg);
 }
 .paint2 {
   background-image: url(../images/paint2.jpeg);
 }
+
 .paint3 {
   background-image: url(../images/paint3.jpeg);
 }
-.paint1 {
-  background-image: url(../images/paint1.jpg);
+.paint4 {
+  background-image: url(../images/paint4.jpg);
 }
-.paint1 {
-  background-image: url(../images/paint1.jpg);
+.paint5 {
+  background-image: url(../images/paint5.jpg);
 }
-.paint1 {
-  background-image: url(../images/paint1.jpg);
+.paint6 {
+  background-image: url(../images/paint6.jpeg);
+}
+/*--------------------------------------------Sculpture-Page*/
+.sculp1 {
+  background-image: url(../images/sculp1.jpg);
+}
+.sculp2 {
+  background-image: url(../images/sculp2.jpeg);
+}
+
+.sculp3 {
+  background-image: url(../images/sculp3.jpg);
 }
 /*--------------------------------------------Sculpture-Page*/
