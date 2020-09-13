@@ -246,14 +246,31 @@ h4 {
 p {
   font-size: 12px;
 }
-.black-arrow a i {
+.black-arrow a i
+ {
   font-weight: bold;
   font-size: 30px;
   color: #000000;
 }
-.black-arrow a i:hover {
+.black-arrow a i:hover
+ {
   text-decoration: underline;
   color: #000000;
+}
+
+.black-arrow h3
+ {
+  font-weight: bold;
+  font-size: 20px;
+  color: #000000;
+  line-height: 20px;
+  
+}
+
+.black-arrow h3:hover {
+  text-decoration: underline;
+  color: #000000;
+  
 }
 
 @media (max-width: 584px) {
@@ -390,6 +407,9 @@ p {
   text-decoration: underline;
 }
 /*--------------------------------------------Exhibition-section*/
+.presex-container {
+    margin-top: 200px;
+}
 .exhibition-container {
   margin-top: 75px;
 }
