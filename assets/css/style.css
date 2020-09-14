@@ -190,6 +190,38 @@
   font-weight: bold;
   border-bottom: 5px solid #ffffff;
   }
+  
+.head-type-left:hover{
+    position: relative;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+   border-bottom: 5px solid #ffffff;
+   text-decoration: none;
+   left: 10px;
+  }
+
+.head-type-middle:hover{
+    position: relative;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+   border-bottom: 5px solid #ffffff;
+   text-decoration: transparent;
+   left: 10px;
+   
+ }
+
+
+.head-type-right:hover{
+    position: relative;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+   border-bottom: 5px solid #ffffff;
+   text-decoration: none;
+   left: 10px;
+  }
 
 
 /*@media screen and (max-width: 943px)*/
