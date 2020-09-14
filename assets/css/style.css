@@ -290,6 +290,7 @@ p {
 .arrow a:hover {
   text-decoration: none;
   color: #ffffff;
+  left: 10px;
   
 
 }
