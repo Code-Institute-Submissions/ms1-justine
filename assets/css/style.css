@@ -288,9 +288,9 @@ p {
     color: #ffffff;
 }
 .arrow a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: #ffffff;
-  left: 10px;
+  
   
 
 }
