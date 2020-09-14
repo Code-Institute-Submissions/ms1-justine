@@ -133,6 +133,7 @@
   background-position: right center;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 .head-middle {
@@ -148,6 +149,7 @@
   background-position: center center;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 .head-right {
   display: flex;
@@ -163,7 +165,7 @@
   background-size: contain;
   background-position: left center;
   position: relative;
-  right: 0;
+  
 }
 
 .head-type-left {
@@ -172,6 +174,7 @@
   font-size: 30px;
   font-weight: bold;
    border-bottom: 5px solid #ffffff;
+   transition: all 0.75s ease-in-out;
   }
 
 .head-type-middle {
@@ -180,6 +183,7 @@
   font-size: 30px;
   font-weight: bold;
   border-bottom: 5px solid #ffffff;
+  transition: all 0.35s ease-in-out;
  }
 
 
@@ -189,26 +193,28 @@
   font-size: 30px;
   font-weight: bold;
   border-bottom: 5px solid #ffffff;
+  transition: all 1s ease-in-out;
   }
   
-.head-type-left:hover{
-    position: relative;
-  color: #ffffff;
-  font-size: 30px;
-  font-weight: bold;
-   border-bottom: 5px solid #ffffff;
-   text-decoration: none;
-   left: 10px;
-  }
 
-.head-type-middle:hover{
+  .head-type-left:hover {
     position: relative;
   color: #ffffff;
   font-size: 30px;
   font-weight: bold;
    border-bottom: 5px solid #ffffff;
    text-decoration: transparent;
-   left: 10px;
+   left: 20px;
+  }
+
+.head-type-middle:hover {
+    position: relative;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+   border-bottom: 5px solid #ffffff;
+   text-decoration: transparent;
+   left: 20px;
    
  }
 
@@ -220,7 +226,7 @@
   font-weight: bold;
    border-bottom: 5px solid #ffffff;
    text-decoration: none;
-   left: 10px;
+   left: 20px;
   }
 
 
@@ -280,15 +286,39 @@ p {
 }
 .black-arrow a i
  {
+  position: relative;
   font-weight: bold;
   font-size: 30px;
   color: #000000;
+  
+}
+.black-arrow a i {
+left: 20px;
 }
 .black-arrow a i:hover
  {
-  text-decoration: underline;
+  text-decoration: none;
   color: #000000;
+  left: 40px;
 }
+.exblack-arrow a i
+ {
+     position: relative;
+  font-weight: bold;
+  font-size: 30px;
+  color: #000000;
+  
+}
+.exblack-arrow a i {
+right: 20px;
+}
+.exblack-arrow a i:hover
+ {
+  text-decoration: none;
+  color: #000000;
+  right: 0;
+}
+
 
 .black-arrow h3
  {
@@ -444,6 +474,7 @@ p {
 }
 .exhibition-container {
   margin-top: 75px;
+  position: relative;
 }
 .expres-pic {
   background-image: url(../images/paint1.jpeg);
