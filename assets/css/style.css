@@ -1,6 +1,4 @@
-/*body {
-  font-family: "Roboto", sans-serif;
-}*/
+
 
 
 
@@ -225,12 +223,12 @@
   font-size: 30px;
   font-weight: bold;
    border-bottom: 5px solid #ffffff;
-   text-decoration: none;
+   text-decoration: underline;
    left: 20px;
   }
 
 
-/*@media screen and (max-width: 943px)*/
+
 
 @media (max-width: 584px) {
   .head-left,
@@ -238,9 +236,15 @@
   .head-right {
     height: 250px;
   }
-  .head-type {
+  
+}
+@media (max-width: 800px) {
+  .head-type-left,
+  .head-type-middle,
+  .head-type-right {
     font-size: 15px;
   }
+  
 }
 
 /*------------------------------------------- general sizings*/
@@ -291,8 +295,6 @@ p {
   text-decoration: underline;
   color: #ffffff;
   
-  
-
 }
 .black-arrow a i
  {
@@ -307,7 +309,7 @@ left: 20px;
 }
 .black-arrow a i:hover
  {
-  text-decoration: none;
+  text-decoration: underline;
   color: #000000;
   left: 40px;
 }
@@ -324,7 +326,7 @@ right: 20px;
 }
 .exblack-arrow a i:hover
  {
-  text-decoration: none;
+  text-decoration: underline;
   color: #000000;
   right: 0;
 }
@@ -401,7 +403,6 @@ right: 20px;
 .foot {
   text-align: center;
   color: #ffffff;
-  
   font-weight: bold;
   font-size: 28px;
   line-height: 32px;
@@ -412,6 +413,22 @@ right: 20px;
   font-size: 28px;  
   
 }
+ .footarrow a {
+    color: #ffffff;
+}
+.footarrow a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+  left: 20px;
+}
+ .footarrow a i {
+    color: #ffffff;
+}
+.footarrow a i:hover {
+  text-decoration: underline;
+  color: #ffffff;
+  left: 20px;
+  }
 
 @media (max-width: 584px) {
   .foot {
@@ -495,6 +512,7 @@ right: 20px;
   position: relative;
   
 }
+
 .art-right1 {
     margin-top: 275px;
     position: relative;
@@ -557,4 +575,67 @@ right: 20px;
 .sculp3 {
   background-image: url(../images/sculp3.jpg);
 }
-/*--------------------------------------------Sculpture-Page*/
+/*--------------------------------------------Contact-Page*/
+.contact-container {
+    width: 100%;
+    position: relative;
+    margin-top: 250px;
+}
+
+.contactinner {
+    
+  height: 800px;
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  background-image: url(../images/cont1.jpeg);
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-weight: bold;
+  background-position: center center;
+  align-items: center;
+  justify-content: center;
+  }
+.cont {
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 36px;
+  letter-spacing: 3px;
+  word-spacing: 30px;
+  
+}
+.cont p {
+  font-size: 36px;
+  line-height: 36px;  
+}
+/*.foot-logo{justify-content: center;
+    align-items: center;
+    text-align: center;}*/
+
+@media (max-width: 1200px) {
+  .contactinner {
+    height: 700px;
+    }}
+@media (max-width: 1000px) {
+  .contactinner {
+    height: 600px;
+}}
+@media (max-width: 800px) {
+  .contactinner {
+    height: 500px;
+} }
+@media (max-width: 800px) {
+  .cont {
+    font-size: 20px;
+    line-height: 20px;
+} }
+
+/*@media (max-width: 600px) {
+  .contactinner {
+    height: 300px;
+}}*/
