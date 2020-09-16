@@ -454,7 +454,7 @@ right: 20px;
   font-weight: bold;
   text-align: center;
   margin: 0 auto;
-  color: #000000;
+  color: #666666;
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
@@ -473,7 +473,7 @@ right: 20px;
   font-weight: bold;
   text-align: center;
   margin: 0 auto;
-  color: #000000;
+  color: #666666;
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
@@ -605,15 +605,19 @@ right: 20px;
   line-height: 36px;
   letter-spacing: 3px;
   word-spacing: 30px;
-  /*margin-top: 25px;
-    margin-bottom: 20px;*/
   
 }
 .cont p {
   font-size: 36px;
   line-height: 36px;  
 }
-.footli .social-links{
+.contli {
+    margin-top: 40px;
+}
+.contli .email {
+ color: #ffffff;   
+}
+.contli #soc li a{
     color: #ffffff;
 }
 
@@ -636,10 +640,6 @@ right: 20px;
     line-height: 20px;
 } }
 
-/*@media (max-width: 600px) {
-  .contactinner {
-    height: 300px;
-}}*/
 /*--------------------------------------------Contact form*/
  
 
@@ -649,23 +649,50 @@ right: 20px;
     margin-left: 30px;
     max-width: 70%;
     background-color: transparent;
-
+}
+.textbox input[type="text"] {
+              outline: none;
+              box-shadow:none !important;
+              background-color: transparent;
+              border: transparent;
+              border-bottom: 3px solid #ffffff;
+              width: 50%;
+              color: #ffffff;
+              padding-bottom: 10px;
+}
+.textbox ::placeholder {
+    color: #ffffff;
+}
+.textbox input[type="email"] {
+              outline: none;
+              box-shadow:none !important;
+              background-color: transparent;
+              border: transparent;
+              border-bottom: 3px solid #ffffff;
+              width: 50%;
+              padding-bottom: 10px;
+}
+.textbox textarea[type="email"] {
+              outline: none;
+              box-shadow:none !important;
+              background-color: transparent;
+              border: transparent;
+              border-bottom: 3px solid #ffffff;
+              width: 100%;
 }
 
-/*button[type="submit"] {
+
+
+button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
-    background-color: #e84610;
-}*/
+    background-color: #999999;
+}
 
-/* ----------------------------------------Media Queries */
+@media (max-width: 600px) {
+  .form-group {
+    padding-top: 20px;
+    margin-top: 20px;
+}}
 
-/*@media(min-width: 992px) {
-    .center-form {
-        padding-top: 30px;
-        min-height: 240px;
-        margin: 0 auto;
-        max-width: 50%;
-    }
-}*/

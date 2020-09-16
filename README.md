@@ -207,7 +207,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--
+- [W3schools.com](https://www.w3schools.com/howto/howto_css_placeholder.asp): Used for styling the placeholder color in the Contact page.
+
+- [stackoverflow](https://stackoverflow.com/questions/48483925/how-to-remove-outline-in-bootstrap-4/48484022): Used to style input bow in Contact page.
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
