@@ -201,7 +201,8 @@
   font-size: 30px;
   font-weight: bold;
    border-bottom: 5px solid #ffffff;
-   text-decoration: transparent;
+   text-decoration: underline;
+   text-decoration-color:#ffffff;
    left: 20px;
   }
 
@@ -211,7 +212,7 @@
   font-size: 30px;
   font-weight: bold;
    border-bottom: 5px solid #ffffff;
-   text-decoration: transparent;
+   text-decoration: underline;
    left: 20px;
    
  }
@@ -341,11 +342,6 @@ right: 20px;
   
 }
 
-.black-arrow h3:hover {
-  text-decoration: underline;
-  color: #000000;
-  
-}
 
 @media (max-width: 584px) {
   .pic {
@@ -383,8 +379,8 @@ right: 20px;
     
     justify-content: center;
     align-items: center;
-    height: 50px;
-  width: 350px;
+    height: 60px;
+  width: 400px;
   margin: 30px auto;
   background-image: url(../images/foot-nar.jpeg);
   background-repeat: no-repeat;
@@ -613,9 +609,7 @@ right: 20px;
   font-size: 36px;
   line-height: 36px;  
 }
-/*.foot-logo{justify-content: center;
-    align-items: center;
-    text-align: center;}*/
+
 
 @media (max-width: 1200px) {
   .contactinner {
