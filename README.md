@@ -105,9 +105,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       2.  The images and arrow icons help and encourage the use explore the site.
       3.  The Contact page has a friendly appeal and is easy to use.
 
- 3. As a First Time Visitor, I want to locate her social media links to see her followings on social media and find out her standing in the art world.
-      1.  The user will see cleary on the bottom of any page on the site the social media links in the footer.
-      2.  The user will find links to galleries she shows in, locations where she has art placements, past and present exhibitions in the about section and a quote from a review in the paper on the landing page.
+3.  As a First Time Visitor, I want to locate her social media links to see her followings on social media and find out her standing in the art world.
+    1.  The user will see cleary on the bottom of any page on the site the social media links in the footer.
+    2.  The user will find links to galleries she shows in, locations where she has art placements, past and present exhibitions in the about section and a quote from a review in the paper on the landing page.
 
 - #### Returning Visitor Goals
 
