@@ -1,6 +1,6 @@
 # Justine Cote Website
 
-This is the website for the artist Justine Cote. It is designed to show her wok, past and present in digital art, painting and sculpture. It also advertises her latest exhibition and shows her past exhibitions and placements. It has a contact page and is also intended as a glimpse into the artist.
+This is the website for the artist Justine Cote. It is designed to show her work, past and present in digital art, painting and sculpture. It also advertises her latest exhibition and shows her past exhibitions and placements. It has a contact page and is also intended as a glimpse into the artist's world.
 
 [View the project live](https://johnston9.github.io/ms1-justine/)
 
@@ -22,19 +22,18 @@ The business goals are for the artist to find potential buyers for her work and 
     -   #### Returning Visitor Goals
 
 1. As a Returning Visitor, I want to I want to examine her works again with a view to purchasing.
-2. As a Returning Visitor, I want to re-examine past exhibitions and notable placements. I want to find out about any new exhibitions and works.
-3. As a Returning Visitor, I want to find the best way to get in contact with her.
+2. As a Returning Visitor, I want to find the best way to get in contact with her.
+3. As a Returning Visitor, I want to re-examine past exhibitions and notable placements. I want to find out about any new exhibitions and works.
 
 
     -   #### Frequent User Goals
 
 1. As a Frequent User, I want to check to see if she has any new works.
-2. As a Frequent User, I want to check to see if there are any new personal or professional developments.
+2. As a Frequent User, I want to check to see if there are any new exhibitions or developments.
 3. As a Frequent User, I want to contact her.
 
-…………………………………………….
-
 - ### Design
+
   - #### Colour Scheme
     - The images of the art works will be the color for the site. Additional coloring will be avoided so as not to take from them. Apart from a colored logo on top with a matching color image as the footer. These will have a warm feel to them to personalise the site.
   - #### Typography
@@ -65,9 +64,9 @@ The business goals are for the artist to find potential buyers for her work and 
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-   - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+
 1. [Google Fonts:](https://fonts.google.com/)
    - Google fonts were used to import the 'Roboto' font into the style.css file which were used on initial veraions but the ndiscarded.
 1. [Font Awesome:](https://fontawesome.com/)
@@ -105,51 +104,48 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       2.  The images and arrow icons help and encourage the use explore the site.
       3.  The Contact page has a friendly appeal and is easy to use.
 
-3.  As a First Time Visitor, I want to locate her social media links to see her followings on social media and find out her standing in the art world.
-    1.  The user will see cleary on the bottom of any page on the site the social media links in the footer.
-    2.  The user will find links to galleries she shows in, locations where she has art placements, past and present exhibitions in the about section and a quote from a review in the paper on the landing page.
+  3.  As a First Time Visitor, I want to locate her social media links to see her followings on social media and find out her standing in the art world.
+      1.  The user will see cleary on the bottom of any page on the site the social media links in the footer.
+      2.  The user will find links to galleries she shows in, locations where she has art placements, past and present exhibitions in the about section and a quote from a review in the paper on the landing page.
 
 - #### Returning Visitor Goals
 
-  1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+1. As a Returning Visitor, I want to I want to examine her works again with a view to purchasing.
 
-     1. These are clearly shown in the banner message.
-     2. They will be directed to a page with another hero image and call to action.
+   1. They will find the current exhibition on the landing page and links to galleries where her work is for sale in the about section which is clearly shown in the navigation bar.
+   2. There is also a link to the contact page in the nav bar and a large "Contact Me" link in the footer.
 
-  2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+2) As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
-     1. The navigation bar clearly highlights the "Contact Us" Page.
-     2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-     3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-     4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-     5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+   1. The navigation bar clearly highlights the "Contact Us" Page.
+   2. Here they can fill out the form on the page or use the email displayed there.
+   3. The footer contains another link to the contact page as well as links to Facebook, Twitter and Instagram and her email.
+   4. All off site links they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
-  3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-     1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-     2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-     3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+3. As a Returning Visitor, I want to re-examine past exhibitions and notable placements. I want to find out about any new exhibitions and works.
+   1. The about link in the navigation bar will take them to all notable past exhibitions and placements and include images and links to the the actual events and locations.
+   2. Any current exhibition will be updated on the landing page where the current one is presently.
+   3. The present Painting and Digital Art as well as the sculpture will be updated whenever she has new works to show.
 
-- #### Frequent User Goals
+#### Frequent User Goals
 
-  1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+1. As a Frequent User, I want to check to see if she has any new works.
 
-     1. The user would already be comfortable with the website layout and can easily click the banner message.
+   1. The user would already be comfortable with the website layout and can easily locate where they are displayed.
 
-  2. As a Frequent User, I want to check to see if there are any new blog posts.
+2. As a Frequent User, I want to check to see if there are any new exhibitions or developments.
 
-     1. The user would already be comfortable with the website layout and can easily click the blog link
+   1. The user would already be comfortable with the website layout and can easily locate them and check in the present exhibition section for any new shows.
 
-  3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-     1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-     2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-     3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+3. As a Frequent User, I want to contact her.
+   1. The user would already be comfortable with the website layout and can easily locate the contact details.
 
 ### Further Testing
 
 - The Website was tested on Google Chrome, Internet Explorer, and Safari browsers.
-- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7 and iPhone.
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone and various other smartphones.
 - A large amount of testing was done to ensure that all pages were linking correctly.
-- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+- Friends and family members were asked to review the site and to point out any bugs and/or user experience issues. These were taken on board and changes were made if necessary or to give a better user experience.
 
 ### Known Bugs
 
@@ -226,10 +222,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The photos used in this site were obtained from
 
-  1.  unsplash.com at
-      https://unsplash.com/wallpapers/art.
+  1.  [unsplash.com](https://unsplash.com/wallpapers/art)
+      
 
-  2.  pexels.com at
-      https://www.pexels.com/search/art/
+  2.  [pexels.com](https://www.pexels.com/search/art/)
+      
 
 ### Acknowledgements
