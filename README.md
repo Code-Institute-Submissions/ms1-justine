@@ -102,7 +102,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r1.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r1.png" width="50%">
+</p>
 
 
 
@@ -114,7 +116,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r2.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r2.png" width="50%">
+</p>
 
 
 
@@ -124,7 +128,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r3.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r3.png" width="50%">
+</p>
 
 
 
@@ -137,7 +143,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r4.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r4.png" width="50%">
+</p>
 
 
 
@@ -150,7 +158,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r5.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r5.png" width="50%">
+</p>
 
 
 
@@ -161,7 +171,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r6.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r6.png" width="50%">
+</p>
 
 
 
@@ -173,7 +185,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r7.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r7.png" width="50%">
+</p>
 
 
 
@@ -183,7 +197,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r8.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r8.png" width="50%">
+</p>
 
 
 
@@ -192,7 +208,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 
-<img src="assets/documentation/readme-images/r9.png" width="40%">
+<p align="center">
+<img src="assets/documentation/readme-images/r9.png" width="50%">
+</p>
 
 
 
@@ -286,4 +304,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
    
-      I'd like to thank my mentor Aaron Sinnott for his guidence and clarity. I'd also like to thank the tutor team for their insights.
+-  I'd like to thank my mentor Aaron Sinnott for his guidence and clarity. I'd also like to thank the tutor team for their insights.
