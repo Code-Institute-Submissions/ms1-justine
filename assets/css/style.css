@@ -59,16 +59,6 @@
 #navbarNavDropdown ul li {
     display: inline-block;
 }
-@media (max-width: 584px) {
-  .logo p {
-    font-size: 15px;
-  }
-}
-@media (max-width: 584px) {
-  .navbar .navbar-brand {
-    font-size: 30px;
-  }
-}
 
 .navbar {
   margin-bottom: 0;
@@ -81,6 +71,16 @@
   font-weight: bold;
   font-size: 40px;
   color: #000000;
+}
+@media (max-width: 584px) {
+  .logo p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 584px) {
+  .navbar .navbar-brand {
+    font-size: 20px;
+  }
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -392,6 +392,14 @@ right: 20px;
   font-weight: bold;
   text-align: center;
   
+}
+@media (max-width: 584px) {
+  .head-left,
+  .head-middle,
+  .head-right {
+    height: 30px;
+    width: 33%
+  }
   
 }
 
@@ -436,8 +444,8 @@ right: 20px;
 @media (max-width: 584px) {
   .foot-logo {
     height: 40px;
-  width: 300px;
-  margin: 30px auto;
+  width: 200px;
+  
     }
 }
 .social-links {
