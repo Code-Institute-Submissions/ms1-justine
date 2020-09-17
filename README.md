@@ -79,6 +79,8 @@ The business goals are for the artist to find potential buyers for her work and 
    - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+1. [favicon-generator](https://www.favicon-generator.org/)
+   - favicon-generator was used to create the favicon link.
 
 ## Testing
 
@@ -98,7 +100,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       3.  The user is also shown a section about the artist on the main page and a clickable link to find out more.
       4.  The footer has a "Contact Me" display with a link to a contact page where they can get in touch with her if they want to ask about buying her work. Also in the about section in exhibitions they can find out about galleries where her work is for sale.
 
-<img src="assets/documentation/readme-images/r1.png">
+
+
+<img src="assets/documentation/readme-images/r1.png" width="40%">
+
+
 
   2.  As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
@@ -106,13 +112,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       2.  The images and arrow icons help and encourage the use explore the site.
       3.  The Contact page has a friendly appeal and is easy to use.
 
-<img src="assets/documentation/readme-images/r2.png">
+
+
+<img src="assets/documentation/readme-images/r2.png" width="40%">
+
+
 
   3.  As a First Time Visitor, I want to locate her social media links to see her followings on social media and find out her standing in the art world.
       1.  The user will see cleary on the bottom of any page on the site the social media links in the footer.
       2.  The user will find links to galleries she shows in, locations where she has art placements, past and present exhibitions in the about section and a quote from a review in the paper on the landing page.
 
-<img src="assets/documentation/readme-images/r3.png">
+
+
+<img src="assets/documentation/readme-images/r3.png" width="40%">
+
+
 
 - #### Returning Visitor Goals
 
@@ -121,7 +135,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    1. They will find the current exhibition on the landing page and links to galleries where her work is for sale in the about section which is clearly shown in the navigation bar.
    2. There is also a link to the contact page in the nav bar and a large "Contact Me" link in the footer.
 
-<img src="assets/documentation/readme-images/r4.png">
+
+
+<img src="assets/documentation/readme-images/r4.png" width="40%">
+
+
 
 2) As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
@@ -130,14 +148,22 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    3. The footer contains another link to the contact page as well as links to Facebook, Twitter and Instagram and her email.
    4. All off site links they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
-<img src="assets/documentation/readme-images/r5.png">
+
+
+<img src="assets/documentation/readme-images/r5.png" width="40%">
+
+
 
 3. As a Returning Visitor, I want to re-examine past exhibitions and notable placements. I want to find out about any new exhibitions and works.
    1. The about link in the navigation bar will take them to all notable past exhibitions and placements and include images and links to the the actual events and locations.
    2. Any current exhibition will be updated on the landing page where the current one is presently.
    3. The present Painting and Digital Art as well as the sculpture will be updated whenever she has new works to show.
 
-<img src="assets/documentation/readme-images/r6.png">
+
+
+<img src="assets/documentation/readme-images/r6.png" width="40%">
+
+
 
 #### Frequent User Goals
 
@@ -145,18 +171,30 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
    1. The user would already be comfortable with the website layout and can easily locate where they are displayed.
 
-<img src="assets/documentation/readme-images/r7.png">
+
+
+<img src="assets/documentation/readme-images/r7.png" width="40%">
+
+
 
 2. As a Frequent User, I want to check to see if there are any new exhibitions or developments.
 
    1. The user would already be comfortable with the website layout and can easily locate them and check in the present exhibition section for any new shows.
 
-<img src="assets/documentation/readme-images/r8.png">
+
+
+<img src="assets/documentation/readme-images/r8.png" width="40%">
+
+
 
 3. As a Frequent User, I want to contact her.
    1. The user would already be comfortable with the website layout and can easily locate the contact details.
 
-<img src="assets/documentation/readme-images/r9.png">
+
+
+<img src="assets/documentation/readme-images/r9.png" width="40%">
+
+
 
 ### Further Testing
 
@@ -247,3 +285,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
       
 
 ### Acknowledgements
+   
+      I'd like to thank my mentor Aaron Sinnott for his guidence and clarity. I'd also like to thank the tutor team for their insights.
