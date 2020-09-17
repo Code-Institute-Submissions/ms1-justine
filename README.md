@@ -46,7 +46,7 @@ The business goals are for the artist to find potential buyers for her work and 
   - PDF – MS1- Justine Cote Artist created in Balsamic for Home, Contact, About sections (Exhibitions and Justine), Present Exhibition and the five gallery pages, Past and Present pages for both Painting and Digital and one Sculpture page.
     All pages wireframed in large, medium and small format.
 
-- [View on Github](https://github.com/johnston9/ms1-justine)
+- [View on Github](https://github.com/johnston9/ms1-justine/)
 
 ## Features
 
@@ -98,6 +98,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       3.  The user is also shown a section about the artist on the main page and a clickable link to find out more.
       4.  The footer has a "Contact Me" display with a link to a contact page where they can get in touch with her if they want to ask about buying her work. Also in the about section in exhibitions they can find out about galleries where her work is for sale.
 
+<img src="assets/images/paint4.jpg">
   2.  As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
       1.  The site has been designed to be fluid and allow the user to explore her different styles of art always able to easily get back to the home page. At the top of each page there is a clean navigation bar guiding the user to the different sections.
