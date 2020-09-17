@@ -1,8 +1,3 @@
-
-
-
-
-
 /*--------------------------------------------Navbar-Logo*/
 .navlogo-container {
   position: absolute;
@@ -11,16 +6,14 @@
   left: 0;
   padding-left: 0;
   padding-right: 0;
-
 }
-
 
 .logo{
   justify-content: center;
   align-items: center;
   height: 50px;
   width: 350px;
-  margin: 20px auto;
+  margin: 30px auto;
   background-image: url(../images/logo.jpeg);
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -32,25 +25,14 @@
   text-align: center;
   line-height: 32px;
   letter-spacing: 3px;
-  
 }
 .logo p {
   font-size: 30px;  
   
 }
-@media (max-width: 584px) {
-  .logo {
-    
-  height: 40px;
-  width: 200px;
-  margin: 13px auto;
 
-  line-height: 15px;
-  letter-spacing: 1px;
-  }
-}
 #navbarNavDropdown {
-    position:relative;
+  position:relative;
   z-index:5;
   width: 50px;
   background-color: #ffffff;
@@ -71,16 +53,6 @@
   font-weight: bold;
   font-size: 40px;
   color: #000000;
-}
-@media (max-width: 584px) {
-  .logo p {
-    font-size: 15px;
-  }
-}
-@media (max-width: 584px) {
-  .navbar .navbar-brand {
-    font-size: 20px;
-  }
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -105,13 +77,13 @@
 }
 .navbar .button
 
-/*--------------------------------------------Header*/
+/*--------------------------------------------Showcase section*/
 .info-container {
-     width: 100%;
+  width: 100%;
   margin-top: 200px;
-  
   position: relative;
 }
+
 .showcase-container {
   width: 100%;
   margin-top: 240px;
@@ -197,13 +169,13 @@
 
   .head-type-left:hover {
     position: relative;
-  color: #ffffff;
-  font-size: 30px;
-  font-weight: bold;
-   border-bottom: 5px solid #ffffff;
-   text-decoration: underline;
-   text-decoration-color:#ffffff;
-   left: 20px;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 5px solid #ffffff;
+    text-decoration: underline;
+    text-decoration-color:#ffffff;
+    left: 20px;
   }
 
 .head-type-middle:hover {
@@ -214,9 +186,7 @@
    border-bottom: 5px solid #ffffff;
    text-decoration: underline;
    left: 20px;
-   
- }
-
+   }
 
 .head-type-right:hover{
     position: relative;
@@ -227,26 +197,6 @@
    text-decoration: underline;
    left: 20px;
   }
-
-
-
-
-@media (max-width: 584px) {
-  .head-left,
-  .head-middle,
-  .head-right {
-    height: 250px;
-  }
-  
-}
-@media (max-width: 800px) {
-  .head-type-left,
-  .head-type-middle,
-  .head-type-right {
-    font-size: 15px;
-  }
-  
-}
 
 /*------------------------------------------- general sizings*/
 
@@ -342,25 +292,6 @@ right: 20px;
   
 }
 
-
-@media (max-width: 584px) {
-  .pic {
-    height: 250px;
-  }
-}
-@media (max-width: 584px) {
-  h3,
-  .title {
-    font-size: 14px;
-  }
-  h4 {
-    font-size: 10px;
-  }
-  p {
-    font-size: 8px;
-  }
-}
-
 /*--------------------------------------------Footer*/
 .footer-container {
     width: 100%;
@@ -391,15 +322,6 @@ right: 20px;
   color: white;
   font-weight: bold;
   text-align: center;
-  
-}
-@media (max-width: 584px) {
-  .head-left,
-  .head-middle,
-  .head-right {
-    height: 30px;
-    width: 33%
-  }
   
 }
 
@@ -434,20 +356,6 @@ right: 20px;
   
   }
 
-@media (max-width: 584px) {
-  .foot {
-    font-size: 15px;
-    line-height: 15px;
-    margin-top: 5px;
-    }
-}
-@media (max-width: 584px) {
-  .foot-logo {
-    height: 40px;
-  width: 200px;
-  
-    }
-}
 .social-links {
   text-align: center;
   margin: 1px;
@@ -629,25 +537,6 @@ right: 20px;
     color: #ffffff;
 }
 
-
-@media (max-width: 1200px) {
-  .contactinner {
-    height: 700px;
-    }}
-@media (max-width: 1000px) {
-  .contactinner {
-    height: 600px;
-}}
-@media (max-width: 800px) {
-  .contactinner {
-    height: 500px;
-} }
-@media (max-width: 800px) {
-  .cont {
-    font-size: 20px;
-    line-height: 20px;
-} }
-
 /*--------------------------------------------Contact form*/
  
 
@@ -697,6 +586,7 @@ button[type="submit"] {
     color: #fafafa;
     background-color: #999999;
 }
+/*--------------------------------------------Media Queries*/
 
 @media (max-width: 600px) {
   .form-group {
@@ -704,3 +594,87 @@ button[type="submit"] {
     margin-top: 20px;
 }}
 
+@media (max-width: 584px) {
+  .logo {
+    
+  height: 40px;
+  width: 200px;
+  margin: 13px auto;
+
+  line-height: 15px;
+  letter-spacing: 1px;
+  }
+}
+@media (max-width: 584px) {
+  .logo p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 584px) {
+  .head-left,
+  .head-middle,
+  .head-right {
+    height: 250px;
+  }
+}
+
+@media (max-width: 800px) {
+  .head-type-right,
+  .head-type-left,
+  .head-type-middle {
+  font-size: 15px;
+  }
+}
+@media (max-width: 584px) {
+  .navbar .navbar-brand {
+    font-size: 20px;
+  }
+}
+@media (max-width: 584px) {
+  .pic {
+    height: 250px;
+  }
+}
+@media (max-width: 584px) {
+  h3,
+  .title {
+    font-size: 14px;
+  }
+  h4 {
+    font-size: 10px;
+  }
+  p {
+    font-size: 8px;
+  }
+}
+@media (max-width: 584px) {
+  .foot-logo {
+    height: 40px;
+  width: 200px;
+  
+    }
+}
+@media (max-width: 584px) {
+  .foot {
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 5px;
+    }
+}
+@media (max-width: 1200px) {
+  .contactinner {
+    height: 700px;
+    }}
+@media (max-width: 1000px) {
+  .contactinner {
+    height: 600px;
+}}
+@media (max-width: 800px) {
+  .contactinner {
+    height: 500px;
+} }
+@media (max-width: 800px) {
+  .cont {
+    font-size: 20px;
+    line-height: 20px;
+} }
