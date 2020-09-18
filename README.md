@@ -39,7 +39,7 @@ The business goals are for the artist to find potential buyers for her work and 
   - #### Typography
     - Clear standard from browser basic as text will not be a style element.
   - #### Imagery
-    - The photos of the art works will be the backbone of the site and to all intensive purposes are it’s vey purpose.
+    - The photos of the art works will be the backbone of the site and to all intensive purposes showing them is it's main goal.
 
 * ### Wireframes
 
@@ -304,4 +304,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
    
--  I'd like to thank my mentor Aaron Sinnott for his guidence and clarity. I'd also like to thank the tutor team for their insights.
+-  I would like to thank my mentor Aaron Sinnott for his guidence and clarity. I would also like to thank the tutor team for their insights.
