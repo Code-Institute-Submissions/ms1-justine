@@ -1,8 +1,10 @@
-# Justine Cote Website
+<h1 align="center">Justine Cote Website</h1>
 
 This is the website for the artist Justine Cote. It is designed to show her work, past and present in digital art, painting and sculpture. It also advertises her latest exhibition and shows her past exhibitions and placements. It has a contact page and is also intended as a glimpse into the artist's world.
 
-[View the project live](https://johnston9.github.io/ms1-justine/)
+[View the project live here.](https://johnston9.github.io/ms1-justine/)
+
+<h2 align="center"><img src="assets/documentation/readme-images/landing.png"></h2>
 
 ## User Experience (UX)
 
@@ -46,7 +48,7 @@ The business goals are for the artist to find potential buyers for her work and 
   - PDF – MS1- Justine Cote Artist created in Balsamic for Home, Contact, About sections (Exhibitions and Justine), Present Exhibition and the five gallery pages, Past and Present pages for both Painting and Digital and one Sculpture page.
     All pages wireframed in large, medium and small format.
 
-- [View on Github in documentation folder](https://github.com/johnston9/ms1-justine/)
+- [View on Github](https://github.com/johnston9/ms1-justine/)
 
 ## Features
 
@@ -80,10 +82,10 @@ The business goals are for the artist to find potential buyers for her work and 
 1. [Balsamiq:](https://balsamiq.com/)
    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 1. [Favicon-generator](https://www.favicon-generator.org/)
-   - favicon-generator was used to create the favicon link.
+   - Favicon-generator was used to create the favicon link.
 1. [Freeformatter](https://www.freeformatter.com/html-formatter.html)
    - Freeformatter was used to tidy up the final code.
-1. -[Gauger](https://gauger.io/fonticon/)
+1. [Gauger](https://gauger.io/fonticon/)
 
    - Gauger was used to create the favicon icon.
 
@@ -91,8 +93,8 @@ The business goals are for the artist to find potential buyers for her work and 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- [W3C Markup Validator](https://validator.w3.org/) - [Results in documentation folder](https://github.com/)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results in documentation folder](https://github.com/)
+- [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/johnston9/ms1-justine/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/johnston9/ms1-justine/)
 
   (W3C CSS Validator gave an error message for type="email" being used in the message section of the contact form but I had to put it back in as it was needed to override inherited settings in the text box.)
 
@@ -264,13 +266,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 * All other content was written by the developer.
 
-### Media
+### Media 
 
 - The photos used in this site were obtained from
 
   1.  [unsplash.com](https://unsplash.com/wallpapers/art)
 
-2.  [pexels.com](https://www.pexels.com/search/art/)
+  2.  [pexels.com](https://www.pexels.com/search/art/)
 
 ### Acknowledgements
 
