@@ -617,6 +617,7 @@ p {
 	border-bottom: 3px solid #ffffff;
 	width: 50%;
 	padding-bottom: 10px;
+    color: #ffffff;
 }
 
 .textbox textarea[type="email"] {
@@ -626,6 +627,7 @@ p {
 	border: transparent;
 	border-bottom: 3px solid #ffffff;
 	width: 100%;
+    color: #ffffff;
 }
 
 button[type="submit"] {
