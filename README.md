@@ -117,7 +117,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1.  The site has been designed to be fluid and allow the user to explore her different styles of art always able to easily get back to the home page. At the top of each page there is a clean navigation bar guiding the user to the different sections.
     2.  The images and arrow icons help and encourage the use explore the site.
-    3.  The Contact page has a friendly appeal and is easy to use.
+    3.  The Contact page has a friendly appeal and it is easy to use.
 
 <p align="center">
 <img src="documentation/readme-images/r2.png" width="50%">
