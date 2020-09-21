@@ -4,7 +4,7 @@
 
 This is the website for the artist Justine Cote. It is designed to show her work, past and present in digital art, painting and sculpture. It also advertises her latest exhibition and shows her past exhibitions and placements. It has a contact page and is also intended as a glimpse into the artist's world.
 
-<h2 align="center"><img src="assets/documentation/readme-images/landing.png"></h2>
+<h2 align="center"><img src="documentation/readme-images/landing.png"></h2>
 
 ## User Experience (UX)
 
@@ -110,7 +110,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       4.  The footer has a "Contact Me" display with a link to a contact page where they can get in touch with her if they want to ask about buying her work. Also in the about section in exhibitions they can find out about galleries where her work is for sale.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r1.png" width="50%">
+<img src="documentation/readme-images/r1.png" width="50%">
 </p>
 
 2.  As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
@@ -120,7 +120,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     3.  The Contact page has a friendly appeal and is easy to use.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r2.png" width="50%">
+<img src="documentation/readme-images/r2.png" width="50%">
 </p>
 
 3.  As a First Time Visitor, I want to locate her social media links to see her followings on social media and find out her standing in the art world.
@@ -128,7 +128,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2.  The user will find links to galleries she shows in, locations where she has art placements, past and present exhibitions in the about section and a quote from a review in the paper on the landing page.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r3.png" width="50%">
+<img src="documentation/readme-images/r3.png" width="50%">
 </p>
 
 - #### Returning Visitor Goals
@@ -139,7 +139,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    2. There is also a link to the contact page in the nav bar and a large "Contact Me" link in the footer.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r4.png" width="50%">
+<img src="documentation/readme-images/r4.png" width="50%">
 </p>
 
 2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
@@ -150,7 +150,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    4. All off site links they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r5.png" width="50%">
+<img src="documentation/readme-images/r5.png" width="50%">
 </p>
 
 3. As a Returning Visitor, I want to re-examine past exhibitions and notable placements. I want to find out about any new exhibitions and works.
@@ -159,7 +159,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    3. The present Painting and Digital Art as well as the sculpture will be updated whenever she has new works to show.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r6.png" width="50%">
+<img src="documentation/readme-images/r6.png" width="50%">
 </p>
 
 #### Frequent User Goals
@@ -169,7 +169,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    1. The user would already be comfortable with the website layout and can easily locate where they are displayed.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r7.png" width="50%">
+<img src="documentation/readme-images/r7.png" width="50%">
 </p>
 
 2. As a Frequent User, I want to check to see if there are any new exhibitions or developments.
@@ -177,14 +177,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    1. The user would already be comfortable with the website layout and can easily locate them and check in the present exhibition section for any new shows.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r8.png" width="50%">
+<img src="documentation/readme-images/r8.png" width="50%">
 </p>
 
 3. As a Frequent User, I want to contact her.
    1. The user would already be comfortable with the website layout and can easily locate the contact details.
 
 <p align="center">
-<img src="assets/documentation/readme-images/r9.png" width="50%">
+<img src="documentation/readme-images/r9.png" width="50%">
 </p>
 
 ### Further Testing
